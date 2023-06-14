@@ -42,6 +42,10 @@
 }
 
 /* Active links */
+.nav__link {
+  color: var(--title-color);
+}
+
 .active-link,
 .nav__link:hover {
   color: var(--title-color-dark);
